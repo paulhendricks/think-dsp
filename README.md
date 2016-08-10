@@ -1,1 +1,1 @@
-# think-dsp
+# Think DSP: Notes
